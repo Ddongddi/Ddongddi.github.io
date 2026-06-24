@@ -1,5 +1,5 @@
 ---
-title: 연구 주제의 변경
+title: 1학기 연구 끝!
 published: 2026-06-25T15:29:33+00:00
 tags: [1인1플]
 category: 언론
